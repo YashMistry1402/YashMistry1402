@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YashMistry1402
 - 👀 I’m interested in Visualizing Data 
-- 🌱 I’m currently learning Tableau
+- 🌱 I’m currently learning Tableau and PowerBI
 - 📫 You can contact me Via github or even my email id.
 
 <!---
